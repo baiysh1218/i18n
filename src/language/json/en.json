@@ -1,0 +1,9 @@
+{
+  "navbar": {
+    "about": "about",
+    "production": "production",
+    "products": "products",
+    "cart": "cart",
+    "user": "user"
+  }
+}
